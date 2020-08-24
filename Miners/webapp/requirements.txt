@@ -1,0 +1,6 @@
+django==3.0.4
+django-bootstrap4==1.1.1
+psycopg2==2.8.4
+gunicorn==20.0.4
+pandas==1.0.1
+django-postgres-copy==2.4.2
