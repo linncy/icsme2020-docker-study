@@ -9,6 +9,16 @@ Artifact repository for the paper "A Large-scale Data Set and an Empirical Study
 * Using this new and more comprehensive data set, we reproduce the phenomenon studied by previous work and compare our results.
 * We investigate new evolution trends to understand the changes in the Docker ecosystem as well as how Dockerfiles co-evolve with other source code.
 * Given the new data from Docker Hub, we study Docker image tagging practices as well as the evolution of image sizes and architectures.
+## Citation
+```
+@inproceedings{LinICSME20,
+author={Changyuan Lin and Sarah Nadi and Hamzeh Khazaei},
+title={A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub},
+booktitle={Proceedings of the 36th IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+year={2020},
+url_Paper={https://www.dropbox.com/s/3bktcmdr7rlw1ic/LinICSME20.pdf}
+}
+```
 
 ## Artifacts
 ### A Large-scale Data Set of Docker Images Hosted on Docker Hub (Section IV)
