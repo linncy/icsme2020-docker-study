@@ -1,5 +1,5 @@
 # A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub
-Artifact repository for the paper "A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub." This reproducible repository includes the data set and its description, source code of the implemented miners, and all analysis scripts and results in the paper.
+Artifact repository for the ICSME'20 paper "A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub." This reproducible repository includes the data set and its description, source code of the implemented miners, and all analysis scripts and results in the paper.
 ## Overview of the methods for data collection and overview of the empirical study
 ![alt text](Docs/papericon.png "Overview of the methods for data collection and overview of our empirical study. We indicate the data used for each RQ.")
 * We create, to the best of our knowledge, the largest available Docker data set collected from both real-world Docker images hosted on Docker Hub, and their source repositories from both GitHub and Bitbucket. 
@@ -9,7 +9,11 @@ Artifact repository for the paper "A Large-scale Data Set and an Empirical Study
 * Using this new and more comprehensive data set, we reproduce the phenomenon studied by previous work and compare our results.
 * We investigate new evolution trends to understand the changes in the Docker ecosystem as well as how Dockerfiles co-evolve with other source code.
 * Given the new data from Docker Hub, we study Docker image tagging practices as well as the evolution of image sizes and architectures.
+
 ## Citation
+The preprint is available [here](https://github.com/pacslab/publications/raw/master/pdf/lin2020docker.pdf).
+
+BibTeX
 ```
 @inproceedings{LinICSME20,
 author={Changyuan Lin and Sarah Nadi and Hamzeh Khazaei},
